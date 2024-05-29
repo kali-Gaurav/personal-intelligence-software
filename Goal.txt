@@ -1,0 +1,7 @@
+If this kind of resources can be used to automate tasks like opening applications,web browsering ,writing scripts ,suggest us to do specific tasks that are useful for our health,can monitor our health.
+This software will be able to connect all wireless devices nearby you and you can monitor every single outcome from your wireless devices like it can connect with your other PC , bluetooth devices and can control them.
+high level of encryption 
+connnecting with all type of wireless devices
+monitoring host 
+suggesting good or bad for them
+can be able to change its coding according to host
